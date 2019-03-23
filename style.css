@@ -39,7 +39,7 @@ padding:0;
   display: flex;
   align-items: center;
   justify-content: center;
-  color:#c7c7c1;
+  color:#8c8c88;
   height:90px;
   width:200px;
   font-size:24px;
@@ -55,7 +55,8 @@ textarea{
   height:100%;
   width:100%;
   padding:5px;
-  border:solid #c7c7c1;
+  border:solid #8c8c88;
+  font-size:24px;
 }
 #voice-select{
   margin-top:50px;
@@ -63,9 +64,9 @@ textarea{
   width:102%;
 }
 button{
-  border:solid #c7c7c1;
+  border:solid #8c8c88;
   background: linear-gradient(35deg,#FFCCCC,#CCFFFF);
-  color:#c7c7c1;
+  color:#8c8c88;
   font-size:32px
 }
 button:active{
